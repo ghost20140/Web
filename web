@@ -1,5 +1,7 @@
-git init
-git add .
-git commit -m "Initial commit"
-git remote add origin https://github.com/ghost20140/Web.git
-git push -u origin master
+streamlit
+tensorflow
+numpy
+opencv-python
+Pillow
+gdown
+
